@@ -1,2 +1,2 @@
 # Reliable_TWI
-Pytorch Implementation of Reliable Thinking with Images.
+PyTorch implementation of Reliable Thinking with Images. The code will be released before March.
