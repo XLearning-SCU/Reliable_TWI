@@ -103,8 +103,8 @@ def main():
     # Output and other options
     parser.add_argument('--no_multiple_voting', type=bool, default=False,
                        help='Disable multiple voting analysis')
-    parser.add_argument('--max_questions', type=int, default=3,
-                       help='Number of questions to process (default: 3 for testing)')
+    parser.add_argument('--max_questions', type=int, default=None,
+                       help='Number of questions to process')
     parser.add_argument('--gpu_memory_utilization', type=float, default=0.7,
                        help='GPU memory utilization ratio (0.0-1.0)')
     parser.add_argument('--max_model_len', type=int, default=51200,
