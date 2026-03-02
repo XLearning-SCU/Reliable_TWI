@@ -46,8 +46,8 @@ The environment setup for this project is based on [DeepConf](https://github.com
 
 The reasoning benchmarks used in this study can be obtained from the following official repositories:
 
-* **VStar**: [VStar Bench](https://github.com/vstar-bench/VStar) 📂
-* **HR-Bench**: [HR-Bench](https://github.com/hr-bench/HR-Bench) 📂
+* **VStar**: [VStar Bench](https://huggingface.co/datasets/craigwu/vstar_bench) 📂
+* **HR-Bench**: [HR-Bench](https://huggingface.co/datasets/DreamMr/HR-Bench) 📂
 
 ### Models
 
