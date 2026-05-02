@@ -1,6 +1,6 @@
 # Reliable Thinking with Images
 
-> Haobin Li, Yutong Yang, Yijie Lin, Xiang Dai, Mouxing Yang, Xi Peng, Reliable Thinking with Images, Arxiv 2026. 👉 [[paper]](https://arxiv.org/abs/2602.12916)
+> Haobin Li, Yutong Yang, Yijie Lin, Xiang Dai, Mouxing Yang, Xi Peng, Reliable Thinking with Images, ICML 2026. 👉 [[paper]](https://arxiv.org/abs/2602.12916)
 
 ## 📚 Background
 
@@ -116,10 +116,10 @@ For more advanced configurations (e.g., hyper-parameters), please refer to `./RT
 If you find our work or the RTWI benchmark useful, please consider citing our paper:
 
 ```latex
-@article{li2026reliable,
+@inproceedings{li2026reliable,
   title={Reliable Thinking with Images},
   author={Li, Haobin and Yang, Yutong and Lin, Yijie and Xiang, Dai and Yang, Mouxing and Peng, Xi},
-  journal={arXiv preprint arXiv:2602.12916},
+  booktitle={International Conference on Machine Learning},
   year={2026}
 }
 ```
