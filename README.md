@@ -118,7 +118,7 @@ If you find our work or the RTWI benchmark useful, please consider citing our pa
 ```latex
 @inproceedings{li2026reliable,
   title={Reliable Thinking with Images},
-  author={Li, Haobin and Yang, Yutong and Lin, Yijie and Xiang, Dai and Yang, Mouxing and Peng, Xi},
+  author={Haobin Li, Yutong Yang, Yijie Lin, Xiang Dai, Mouxing Yang and Xi Peng},
   booktitle={International Conference on Machine Learning},
   year={2026}
 }
